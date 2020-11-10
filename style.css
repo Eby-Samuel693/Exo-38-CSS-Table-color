@@ -4,25 +4,32 @@
     caption-side: top;
     border-collapse: collapse;
     margin-left: 300px;
+    border-width: 1px;
+    width: 700px;
 }
-caption{
+
+caption {
     font-weight: bold;
 }
 
 th, td {
     border: solid;
 }
-.colonne{
+
+.colonne {
     color: red;
 }
-.blue{
+
+.blue {
     color: blue;
 }
-.en{
+
+.en {
     color: blue;
     font-size: 12px;
 }
-.petit{
+
+.petit {
     color: blue;
     font-size: 12px;
     vertical-align: top;
