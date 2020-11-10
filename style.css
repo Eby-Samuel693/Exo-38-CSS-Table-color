@@ -19,3 +19,8 @@ th, td {
     color: blue;
     font-size: 12px;
 }
+.petit{
+    color: blue;
+    font-size: 12px;
+    vertical-align: top;
+}
