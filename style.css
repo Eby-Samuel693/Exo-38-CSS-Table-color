@@ -5,6 +5,9 @@
     border-collapse: collapse;
     margin-left: 300px;
 }
+caption{
+    font-weight: bold;
+}
 
 th, td {
     border: solid;
