@@ -1,0 +1,21 @@
+
+.table {
+    caption-side: bottom;
+    caption-side: top;
+    border-collapse: collapse;
+    margin-left: 300px;
+}
+
+th, td {
+    border: solid;
+}
+.colonne{
+    color: red;
+}
+.blue{
+    color: blue;
+}
+.en{
+    color: blue;
+    font-size: 12px;
+}
