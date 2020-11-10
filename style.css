@@ -2,6 +2,7 @@
 .table {
     border-collapse: collapse;
     width: 700px;
+    height: 350px;
 }
 
 caption {
@@ -29,4 +30,32 @@ th, td {
     color: blue;
     font-size: 12px;
     vertical-align: top;
+}
+.couleur{
+    background-color: blue;
+    height: 2px;
+}
+.cell1{
+border-style: none;
+}
+.cell2{
+    height: 4px;
+    background-color: blue;
+}
+.cell3{
+    background-color: red;
+}
+.cell4{
+    background-color: purple;
+}
+.cell5{
+    background-color: deeppink;
+}
+
+.cell6{
+    background-color: yellow;
+}
+
+.cellA{
+    padding-top: 10px;
 }
